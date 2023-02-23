@@ -13,5 +13,5 @@ The goal of this website is to create a crowdsourced, uninformed, and incredibly
 The first table, called <strong>PokémonData</strong>, statically stores the information of all pokémon that can be voted on and includes pokémonID (PK), name, and image. The second table, called <strong>Votes</strong>, is edited any time a user votes between two pokémon and includes userID, winningPokémonID (FK), losingPokémonID (FK), and the date and time the vote was made.
 
 ## Initial Design
-![Page Layout](/pagelayout.png)
-![Site Map](/sitemap.png)
+![Page Layout](pagelayout.png)
+![Site Map](sitemap.png)
