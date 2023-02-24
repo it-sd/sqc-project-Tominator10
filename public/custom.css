@@ -1,0 +1,23 @@
+/* Main Site Header */
+.title > a {
+    color: var(--text-color-normal);
+    text-decoration: none;
+}
+
+.main-heading > a:hover {
+    color: var(--text-color-softer);
+}
+
+.header {
+    text-align: center;
+}
+
+.pokemon-panel {
+    background-color: var(--background-color-softer);
+    border: 1px solid var(--border-color-softer);
+    border-radius: 4px;
+}
+
+.versus > h3 {
+    margin: 0;
+}
